@@ -1,4 +1,3 @@
-for (i = 10; i <= 20; i++)
 
-    console.log(i);
-
+var a=10;
+console.log(a)
